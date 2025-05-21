@@ -1,6 +1,6 @@
 
 import '../globals.css'
-import Contactus from "../components/ContactUs/Contactus";
+// import Contactus from "../components/ContactUs/Contactus";
 export async function generateMetadata() {
      return {
         title: `Contact Us`, // Dynamic title
@@ -10,7 +10,7 @@ export async function generateMetadata() {
 const Contacts = () => {
     return (
         <div>
-            <Contactus />
+            {/* <Contactus /> */}
         </div>
     )
 }
