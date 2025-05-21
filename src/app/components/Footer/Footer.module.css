@@ -1,0 +1,189 @@
+.linkh h1,
+.linkh h2,
+.linkh h3,
+.linkh h4,
+.linkh h5 {
+  /* font-weight: 700 !important;
+  color: #fff; */
+  position: relative;
+  font-size: 18px;
+  font-weight: 600 !important;
+  font-family: 'Jost', sans-serif;
+  line-height: 1em;
+  margin: -0.1em 0 29px 0;
+  padding-bottom: 16px;
+  color: white;
+  border-bottom: 3px solid #ecf1f9;
+
+}
+
+.C div {
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+.C div strong {
+  font-weight: 700 !important;
+  font-size: calc(0.4rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h1 strong {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h2 strong {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h3 strong {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h4 strong {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h5 strong {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h1 {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h2 {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h3 {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h4 {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div h5 {
+
+
+  font-weight: 600 !important;
+  font-size: calc(1rem + .6vw);
+  --bs-text-opacity: 1;
+  color: rgba(33, 37, 41, var(--bs-text-opacity)) !important;
+}
+
+.C div p {
+  color: #212529;
+  font-size: 16px;
+
+
+  font-weight: 400 !important;
+  word-spacing: 2px;
+  margin-top: 0.6rem;
+}
+
+.C div ul {
+  color: #212529;
+  font-size: 16px;
+
+
+  font-weight: 400 !important;
+  word-spacing: 2px;
+  margin-top: 0.6rem;
+}
+
+.Footer {
+
+  padding-bottom: 0.4rem;
+  min-height: 300px;
+  width: 100%;
+  overflow-x: hidden;
+  
+
+  background-color: #14151a;
+
+}
+
+
+
+.linkp {
+  color: #989eb6;
+  line-height: 185%;
+  font-weight: 900 !important;
+
+  word-spacing: 2px;
+}
+
+.linkp p {
+  
+  /* color: white; */
+
+  color: white !important;
+
+  line-height: 185%;
+font-weight: 600 !important;
+  word-spacing: 2px;
+}
+
+.footer p a {
+  /* color: #14151a; */
+
+  color: white !important;
+  word-spacing: 2px;
+}
+
+.second p {
+  font-size: 14px;
+  color: rgb(152, 158, 182);
+
+  line-height: 185%;
+  font-weight: 600 !important;
+  word-spacing: 2px;
+}
