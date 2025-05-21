@@ -8,7 +8,7 @@ export const metadata = {
 
 
 
-const About = async () => {
+const About =  () => {
    
     return (
         <div>
