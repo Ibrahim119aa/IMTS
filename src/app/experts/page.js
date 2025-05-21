@@ -1,4 +1,4 @@
-import CVExpert from "../components/CVExpert/CVExpert";
+// import CVExpert from "../components/CVExpert/CVExpert";
 export async function generateMetadata() {
 
     return {
@@ -10,7 +10,8 @@ const CVExpertPage=()=>
 {
 return (
     <div>
-        <CVExpert/>
+        {/* <CVExpert/> */}
+        asdasd
     </div>
 )
 }
