@@ -1,5 +1,5 @@
 
-import SiteMap from "../components/SiteMap/SiteMap";
+// import SiteMap from "../components/SiteMap/SiteMap";
 export async function generateMetadata() {
     return {
         title: `SiteMap`, // Dynamic title
@@ -20,7 +20,7 @@ const SiteMaps = async () => {
     let a = await getSitemap();
     return (
         <div>
-            <SiteMap a={a} />
+            {/* <SiteMap a={a} /> */}
         </div>
     )
 }
