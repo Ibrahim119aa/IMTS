@@ -1,8 +1,8 @@
-import Tested from "../components/Test/Static";
+
 const Tests = () => {
     return (
         <div>
-            <Tested />
+            mbnm
         </div>
     )
 }
